@@ -1,0 +1,10 @@
+[
+  {
+    "package": "blsR",
+    "oncran": true
+  },
+  {
+    "package": "ustfd",
+    "oncran": true
+  }
+]

@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "blsR"]
 	path = blsR
 	url = https://github.com/groditi/blsr
-	shallow = true
-	registered = true
 [submodule "ustfd"]
 	path = ustfd
 	url = https://github.com/groditi/ustfd
-	shallow = true
-	registered = true
